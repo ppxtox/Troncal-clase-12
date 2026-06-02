@@ -167,7 +167,7 @@ new Chart(document.getElementById("arancel"), {
 { name: "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA, VIÑA DEL MAR",	x: 6,	y: 275000 },
 { name: "UNIVERSIDAD TECNOLOGICA METROPOLITANA",	x: 4,	y: 90000 },
                             ],
-                            backgroundColor: "rgba(241,142,45,.75)",
+                            backgroundColor: "rgba(0,0,0,.63)",
                             pointRadius: 5,
                             pointHoverRadius: 5,
                         },
